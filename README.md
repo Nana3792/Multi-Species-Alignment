@@ -8,7 +8,7 @@ The workflow identifies anchor intervals shared by all query genomes, extracts t
 
 > **Scope:** The output is a concatenated alignment of *shared anchor regions*, **not** a continuous whole-genome multiple alignment. Quality-control labels prioritize inspection; they do **not** establish biological correctness or a validated alignment-error rate.
 >
-> **Status:** Research workflow. The example commands and configuration below describe the uploaded implementation; they are not a claim that any particular reported scientific result has been independently reproduced.
+> **Status:** Research workflow. The example commands and configuration below describe the uploaded implementation;
 
 ## Contents
 
